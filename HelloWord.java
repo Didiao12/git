@@ -3,7 +3,7 @@ public class HelloWord{
 		System.out.println("HelloWord");
 	int a=10;
 	//aaaa
-	//啊速度啦的
+	//啊速度啦assds的
 	}
 
 
